@@ -1,0 +1,27 @@
+1.  DC RC without source (i):V=5v,R=10k,C=47uF,8 data points(s,V)
+2.  DC RC without source (ii):V=5v,R=5k,C=30uF,9 data points(ms,V)
+
+3.  DC RL without source (i):V=25v,R=100,L=15H,9 data points(s,mA)
+4.  DC RL without source (ii):V=30V,R=150,L=20H,9 data points(s,mA)
+
+5.  DC RC with source(i):V=5v,R=10k,C=47uF,8 data point(s,V)
+6.  DC RC with source(ii):V=15v,R=5k,C=30u,9 data points(ms,V)
+
+7.  DC RL with source(i):V=15v,R=100,L=30,9 data points(s,mA)
+8.  DC RL with source(ii):V=10v,R=200,L=20,9 data points(s,mA)
+
+9.  AC RL(i):V=25v,freq=10Hz,R=100,L=10H, 21 data points(ms,mA)
+10. AC RL(ii):V=15v,freq=10Hz,R=150,L=20H,26 data points(ms,mA)
+
+11. AC RC(i):V=10v,freq=10Hz,R=10k,C=10u,20 data points(ms,mA)
+12. AC RC(ii):V=20v,freq=10Hz,R=5k,C=30u,26 data points(ms,V)
+
+13.DC RLC overdamped(i):V=10v,R=4k,C=10u,L=10,11 data points(ms,A)
+14.DC RLC underdamped(i):V=10v,R=100,C=47u,L=10,22 data points(ms,A)
+15.DC RLC criticallydamped(i):V=10v,R=2k,C=10u,L=10,10 data points(ms,A)
+
+16.DC initial capacitor(i):V=10v,R=4k,C=10uF,initial cond=3v,8 data points(ms,V)
+17.DC initial capacitor(ii):V=5v,R=10k,C=40uF,initial cond=7v,9 data points(s,V)
+
+18.DC initial inductor(i):V=12v,R=150,L=15H,initial cond=0.15A,7 data points(ms,mA)
+19.DC initial inductor(ii):V=10v,R=50,L=10H,initial cond=0.1A,8 data points(s,mA)
